@@ -1,3 +1,3 @@
 def upper_text(value):
-"""docstring"""
+    """docstring"""
     return value.upper()
